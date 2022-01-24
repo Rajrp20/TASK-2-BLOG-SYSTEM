@@ -1,0 +1,24 @@
+body{
+
+    background-color: rgb(75,74,74);
+    color: aliceblue;
+
+}
+
+.form-control{
+    background-color: silver;
+}
+/* 
+form{
+
+    color: rgb(177,168,168);
+}
+input[type="text"],textarea{
+    background-color: silver;
+
+} */
+.jumbo-color{
+
+    background-color: rgb(83,81,81);
+    color: white;
+}
