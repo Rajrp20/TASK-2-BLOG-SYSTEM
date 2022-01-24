@@ -5,6 +5,8 @@ This is a blog system build by Rajvardhan Ramdas Patil.Here I can post the conte
 Technologies Used :
 
 Backend :  Python (Django Framework)
+
 Frontend : HTML
            CSS
+           
 Database : MySQL
