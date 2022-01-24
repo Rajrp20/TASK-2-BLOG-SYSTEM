@@ -6,7 +6,6 @@ Technologies Used :
 
 Backend :  Python (Django Framework)
 
-Frontend : HTML
-           CSS
+Frontend : HTML , CSS
            
 Database : MySQL
